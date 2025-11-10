@@ -1,415 +1,413 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Anmol Singh",
-    "label": "Software Developer",
-    "animated_main_label": "developer",
-    "animated_secondary_initial_label": "software",
-    "animated_secondary_final_label": "fullstack",
+    "name": "Lucio Espino",
+    "label": "Electronics Engineer",
+    "animated_main_label": "Electronics Engineer",
+    "animated_secondary_initial_label": "Fullstack Developer",
+    "animated_secondary_final_label": "Automation Engineer",
     "image": "/pfp.jpeg",
-    "email": "anmolsingh51200@gmail.com",
-    "url": "https://anmol.pro",
-    "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
+    "email": "lucioespinocastro@gmail.com",
+    "url": "https://lucioespino.tech",
+    "summary": "Electronics Engineer with dual expertise in FullStack development and Mission-Critical Industrial Automation. Specialized in System Reliability through the implementation and management of large-scale Control Systems (DCS/PLC), software development, and successful technology project management.",
     "theme": "platinum",
     "location": {
-      "address": "Panipat",
-      "city": "Haryana",
-      "countryCode": "IN",
-      "region": "India"
+      "address": "Cordon",
+      "city": "Montevideo",
+      "countryCode": "UY",
+      "region": "Uruguay"
     },
     "profiles": [
       {
-        "network": "X / Twitter",
-        "icon": "ri:twitter-fill",
-        "color": "#1DA1F2",
-        "username": "@anmolthedev",
-        "url": "https://x.com/anmolthedev"
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "color": "#0A66C2",
+        "username": "lucio-espino-7a02761bb",
+        "url": "https://www.linkedin.com/in/lucio-espino-7a02761bb/"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "color": "#929AAB",
-        "username": "Anmol-TheDev",
-        "url": "https://github.com/Anmol-TheDev"
+        "color": "#181717",
+        "username": "LucioEspino",
+        "url": "https://github.com/LucioEspino"
       },
       {
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
-        "username": "anmolsingh",
-        "url": "mailto:anmolsingh51200@gmail.com"
-      },
-      {
-        "network": "GitHub Stars",
-        "icon": "ri:star-line",
-        "color": "#FBBC05",
-        "username": "Star on GitHub",
-        "url": "https://github.com/Anmol-TheDev/potfolio2.0"
+        "username": "lucioespinocastro@gmail.com",
+        "url": "mailto:lucioespinocastro@gmail.com"
       }
     ]
   },
   "work": [
     {
-      "name": "Advika Innovate",
-      "position": "Frontend Developer",
-      "location_type": "Remote",
-      "location": "IN",
-      "url": "https://advikainnovate.com/",
-      "startDate": "2025-07-01",
+      "name": "Stiler Project Management",
+      "position": "Electronics Engineer",
+      "location_type": "On-site",
+      "location": "Montevideo, UY",
+      "url": null,
+      "startDate": "2023-07-01",
       "endDate": null,
-      "summary": "Contributing to a centralized ecommerce platform to manage multiple ecommerce stores from a single interface, including order and inventory management.",
+      "summary": "Development and implementation of automation projects for sanitation stations in Montevideo.",
       "responsibilities": [
-        "Developing and maintaining the frontend of a centralized ecommerce platform.",
-        "Implementing features for order management, inventory control, and other ecommerce functionalities.",
-        "Collaborating with the team to create a scalable and user-friendly platform."
+        "PLC logic control programming and HMI/SCADA interface design.",
+        "Management and maintenance of distributed control systems (DCS) with approximately 2000 I/O.",
+        "Configuration and maintenance of low-voltage electrical networks and data networks.",
+        "Specification of hardware and software for new functionalities and modifications.",
+        "Development of tools to improve productivity using the Microsoft ecosystem (Microsoft Lists, PowerBI).",
+        "Development of reports in PowerBI to predict discharge events."
       ],
       "skills": {
-        "React": "simple-icons:react",
-        "MUI": "simple-icons:mui",
-        "React Hook Form": "simple-icons:reacthookform",
-        "React Query": "simple-icons:reactquery",
-        "Zod": "simple-icons:zod",
-        "TypeScript": "simple-icons:typescript",
-        "CSS3": "ri:css3-fill",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github"
+        "PLC": "simple-icons:siemens",
+        "SCADA": "carbon:dashboard",
+        "DCS": "carbon:flow-data",
+        "PowerBI": "simple-icons:powerbi",
+        "Automation": "mdi:factory"
       }
     },
     {
-      "name": "PixelSaffron",
+      "name": "GSoft",
       "position": "Full-Stack Developer",
-      "location_type": "Remote",
-      "location": "IN",
-      "url": "https://pixelsaffron.in/",
-      "startDate": "2024-10-03",
-      "endDate": "2025-06-30",
-      "summary": "Led front-end development for a full-stack eCommerce platform built for a Mumbai-based clothing brand. Implemented core features like order management, secure payment integration, and responsive UI for seamless user experience.",
-
+      "location_type": "On-site",
+      "location": "Montevideo, UY",
+      "url": null,
+      "startDate": "2021-06-01",
+      "endDate": "2023-07-01",
+      "summary": "Development of financial and e-commerce systems using Java, JavaScript, C, and Python.",
       "responsibilities": [
-        "Built and maintained both front-end and back-end components of a production-ready eCommerce web app using modern web technologies.",
-        "Focused on building scalable, responsive, and maintainable front-end features, ensuring high performance and usability.",
-        "Integrated payment gateways and developed order management features to support real-time order processing.",
-        "Collaborated with clients and team members to align technical solutions with business needs.",
-        "Ensured clean, modular code and implemented best practices for performance optimization and maintainability.",
-        "Developed and connected RESTful APIs to handle key business logic and data flow between client and server."
+        "Implementation of RESTful APIs and back-end development.",
+        "Design of user interfaces with PrimeFaces (web) and Ionic (mobile).",
+        "Creation and maintenance of MySQL databases.",
+        "Version management using Git."
       ],
-
       "skills": {
-        "Go": "simple-icons:go",
-        "Gin": "simple-icons:gin",
-        "HTML5": "simple-icons:html5",
-        "CSS3": "ri:css3-fill",
-        "Tailwind": "mdi:tailwind",
-        "Bootstrap": "simple-icons:bootstrap",
-        "JavaScript ": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Next-Js": "simple-icons:nextdotjs",
-        "React": "simple-icons:react",
-        "NodeJS": "ri:nodejs-line",
-
-        "Bruno": "simple-icons:bruno",
-        "Redux": "simple-icons:redux",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github"
+        "Java": "ri:java-line",
+        "JavaScript": "simple-icons:javascript",
+        "Python": "simple-icons:python",
+        "C": "simple-icons:c",
+        "REST API": "mdi:api",
+        "MySQL": "simple-icons:mysql",
+        "Git": "mdi:git"
       }
     }
   ],
-  "education": [],
-  "certificates": [],
+  "education": [
+    {
+      "institution": "Universidad ORT Uruguay",
+      "area": "Electronics Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2019-03-01",
+      "endDate": "2025-03-01",
+      "score": "Average grade: 88/100",
+      "courses": [
+        "Embedded Systems",
+        "Power Electronics",
+        "Industrial Automation",
+        "Data Structures & Algorithms",
+        "Databases",
+        "Machine Learning for Data Analysis",
+        "Data Networks",
+        "Signals and Systems"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "First Certificate in English (FCE B2)",
+      "date": "2019-11-01",
+      "issuer": "Instituto Cultural Anglo (Cambridge Assessment English)",
+      "url": null
+    }
+  ],
   "skills": [
     {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
+      "name": "PLC Programming (Siemens, Schneider)",
+      "icon": "simple-icons:siemens",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": ["Automation", "LADDER", "LOGO!", "GRAFCET"]
     },
     {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
+      "name": "Industrial Automation",
+      "icon": "mdi:factory",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+      "keywords": ["SCADA", "HMI", "DCS", "Process Control"]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
+      "name": "Python",
+      "icon": "simple-icons:python",
       "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "keywords": ["Backend", "Data Science", "Scripting"]
     },
     {
-      "name": "Bootstrap",
-      "icon": "simple-icons:bootstrap",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Next-Js",
-      "icon": "simple-icons:nextdotjs",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
-    },
-    {
-      "name": "React",
-      "icon": "simple-icons:react",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Static Generation"]
-    },
-    {
-      "name": "Go-lang",
-      "icon": "simple-icons:go",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Static Generation"]
-    },
-    {
-      "name": "Gin",
-      "icon": "simple-icons:gin",
-      "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Static Generation"]
-    },
-    {
-      "name": "Node",
+      "name": "Node.js",
       "icon": "ri:nodejs-line",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+      "level": "Advanced",
+      "keywords": ["Backend", "REST API", "JavaScript", "Serverless"]
     },
     {
-      "name": "PNPM",
-      "icon": "simple-icons:pnpm",
-      "level": "Beginner",
-      "keywords": ["Package Manager", "Web Development", "Frontend", "Backend"]
+      "name": "Machine Learning",
+      "icon": "mdi:brain",
+      "level": "Advanced",
+      "keywords": ["NLP", "Scikit-learn", "Word2Vec", "WandB"]
+    },
+    {
+      "name": "IoT & Embedded Systems",
+      "icon": "mdi:wifi",
+      "level": "Advanced",
+      "keywords": ["ESP32", "C++", "RFID", "Sensors"]
     },
     {
       "name": "Java",
       "icon": "ri:java-line",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Backend"]
+      "keywords": ["Backend", "OOP"]
     },
     {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Beginner",
-      "keywords": ["Databases", "File", "Data Storage", "Backend"]
-    },
-    {
-      "name": "PostgreSQL",
-      "icon": "simple-icons:postgresql",
+      "name": "Database Design",
+      "icon": "simple-icons:mysql",
       "level": "Intermediate",
-      "keywords": ["Backend", "Databases", "SQL", "Relational Database"]
+      "keywords": ["SQL", "MySQL", "ERD", "Relational"]
     },
     {
-      "name": "Git",
-      "icon": "mdi:git",
+      "name": "Video Streaming",
+      "icon": "mdi:video-wireless",
       "level": "Advanced",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": ["HLS", "MPEG-TS", "FFmpeg", "Cloudflare"]
     },
     {
-      "name": "GitHub",
+      "name": "Data Analytics",
+      "icon": "simple-icons:powerbi",
+      "level": "Intermediate",
+      "keywords": ["PowerBI", "Reports", "Data Visualization"]
+    },
+    {
+      "name": "DSP",
+      "icon": "mdi:waveform",
+      "level": "Intermediate",
+      "keywords": ["Digital Signal Processing", "Scilab", "IIR", "FIR"]
+    },
+    {
+      "name": "Git & GitHub",
       "icon": "mdi:github",
       "level": "Advanced",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      "keywords": ["Version Control", "Collaboration"]
     },
     {
-      "name": "AWS",
-      "icon": "simple-icons:amazonaws",
-      "level": "Beginner",
-      "keywords": ["Cloud Computing", "Backend", "Infrastructure"]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
+      "name": "Power Systems",
+      "icon": "mdi:transmission-tower",
       "level": "Intermediate",
-      "keywords": ["Virtual Environments", "Backend"]
+      "keywords": ["Fault Analysis", "Per-Unit", "Symmetrical Components"]
     },
     {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Beginner",
-      "keywords": ["Scripting", "Automation"]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
+      "name": "Industrial Networks",
+      "icon": "mdi:lan",
       "level": "Intermediate",
-      "keywords": ["OS", "Scripting", "Automation"]
-    },
-    {
-      "name": "Swagger",
-      "icon": "simple-icons:swagger",
-      "level": "Beginner",
-      "keywords": ["API", "Documentation", "Web Development", "Backend"]
-    },
-    {
-      "name": "Postman",
-      "icon": "simple-icons:postman",
-      "level": "Intermediate",
-      "keywords": ["API", "Testing", "Web Development", "Backend"]
+      "keywords": ["Modbus TCP/IP", "DCS", "Networking"]
     }
   ],
   "languages": [
     {
-      "language": "Hindi",
-      "fluency": "Native speaker"
+      "language": "Spanish",
+      "fluency": "Native Speaker"
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Professional Working Proficiency (B2)"
     }
   ],
   "projects": [
     {
-      "name": "pixelsaffron",
+      "name": "Thesis: Personalized Video Streaming Service",
       "isActive": true,
-      "description": "A landing page for a startup with beautiful design and smooth animations.",
+      "description": "Co-developed a high-efficiency backend service for personalized video streaming. The system generates unique videos by dynamically concatenating pre-existing video (H.264) and audio (AAC) segments, all without re-encoding, dramatically optimizing storage and processing time.",
       "highlights": [
-        "GSAP animations",
-        "Beautiful design",
-        "Smooth animations"
+        "Dynamic HLS/M3U8 generation",
+        "Low-level PTS/DTS timestamp manipulation",
+        "Serverless logic on Cloudflare Workers",
+        "Reduced storage and processing vs. traditional encoding"
       ],
       "stack": {
-        "Vue": "simple-icons:vuedotjs",
-        "GSAP": "simple-icons:greensock",
-        "Tailwind": "mdi:tailwind"
+        "Node.js": "ri:nodejs-line",
+        "Python": "simple-icons:python",
+        "HLS": "mdi:video-wireless",
+        "FFmpeg": "simple-icons:ffmpeg",
+        "Cloudflare": "simple-icons:cloudflare",
+        "MPEG-TS": "mdi:file-video"
       },
-      "url": "https://pixelsaffron.in"
+      "url": null,
+      "github": "https://github.com/JScaffo/StitchingVideo"
     },
-{
-  "name": "ParticleFX",
-  "isActive": true,
-  "description": "A zero-dependency JavaScript library to create interactive particle effects from images using canvas. Easily works with React, Vue, or plain HTML. Customize animations, physics, and user interactions.",
-  "highlights": [
-    "🖼️ Turn Images into Particles",
-    "🌀 Hover & Click Effects",
-    "🎨 Custom Shapes & Filters",
-    "⚙️ Configurable Physics",
-    "📱 Responsive Design",
-    "📸 Export as PNG",
-    "📦 TypeScript Ready",
-    "✨ Works Without Any Framework"
-  ],
-  "stack": {
-    "JavaScript": "simple-icons:javascript",
-    "TypeScript": "simple-icons:typescript",
-    "CanvasAPI": "mdi:draw",
-    "HTML5": "simple-icons:html5"
-  },
-  "url": "https://particlefx.anmol.pro"
-},
     {
-      "name": "Social Media WebApp",
+      "name": "Kaggle: Drug Review Classifier (0.97 AUC)",
+      "isActive": true,
+      "description": "Co-developed a Machine Learning model for a Kaggle project to classify drug reviews as 'positive' or 'negative.' I managed the complete project pipeline, from data cleaning (NLP, negation words) to model optimization, achieving 0.97252 AUC on the final test set.",
+      "highlights": [
+        "Achieved 0.97252 AUC on Kaggle",
+        "Full NLP pipeline (TF-IDF, Word2Vec)",
+        "Trained and evaluated multiple models (Random Forest, NNs)",
+        "Used Weights & Biases (WandB) for hyperparameter sweeps"
+      ],
+      "stack": {
+        "Machine Learning": "mdi:brain",
+        "Python": "simple-icons:python",
+        "NLP": "mdi:text-recognition",
+        "Scikit-learn": "simple-icons:scikitlearn",
+        "WandB": "simple-icons:weightsandbiases"
+      },
+      "url": "https://www.kaggle.com/competitions/mlad-segundo-semestre-2024",
+      "github": null
+    },
+    {
+      "name": "IoT Operator Identification System (RFID)",
+      "isActive": true,
+      "description": "Co-developed a full-stack IoT system for industrial machinery access control. The system uses RFID cards (read by an ESP32) to authorize operators by checking against a central database via a Node.js REST API, logging every ignition attempt.",
+      "highlights": [
+        "Full-stack IoT solution",
+        "ESP32 firmware (C++) for WiFi and RFID reading",
+        "Node.js REST API backend",
+        "SQL database for managing operators, machines, and logs"
+      ],
+      "stack": {
+        "ESP32": "simple-icons:espressif",
+        "C++": "simple-icons:cplusplus",
+        "Node.js": "ri:nodejs-line",
+        "SQL": "mdi:database-outline",
+        "RFID": "mdi:nfc"
+      },
+      "url": null,
+      "github": "https://github.com/LucioEspino/Proyecto3"
+    },
+    {
+      "name": "PLC Control System Migration",
       "isActive": false,
-      "description": "A modern social media application designed for real-time interaction and user engagement",
+      "description": "Migrated an obsolete water heating control system (SR-609C) to a modern platform using a Siemens LOGO! PLC. The project involved expanding the system from two to three tanks, automating a manual recirculation pump, and integrating new RTD sensors.",
       "highlights": [
-        "📝 CRUD Posts (Create, Read, Update, Delete)",
-        "💬 Real-time Chat (1:1 and group messaging)",
-        "👥 Follow System to connect with others",
-        "❤️ Like and react to posts",
-        "📞 Group Voice/Video Calling"
+        "System modernization and expansion",
+        "PLC programming (LADDER/FBD) with Siemens LOGO!",
+        "Implemented Hysteresis (ON/OFF) and Timer-based control",
+        "Integrated with DCS via Modbus TCP/IP for remote control"
       ],
-
       "stack": {
-        "Next-Js": "simple-icons:nextdotjs",
-        "Redux": "simple-icons:redux",
-        "PostGres": "simple-icons:postgresql",
-        "Socket.io": "simple-icons:socketdotio",
-        "Go-lang": "simple-icons:go",
-        "Docker": "mdi:docker"
-      }
+        "Siemens PLC": "simple-icons:siemens",
+        "LADDER": "mdi:gate-nand",
+        "Modbus": "mdi:lan",
+        "Automation": "mdi:factory"
+      },
+      "url": null,
+      "github": null
     },
     {
-      "name": "Notbasic",
-      "isActive": true,
-      "description": "An easy-to-use online store where you can browse, shop, and pay securely. It also has a simple admin panel to manage products and track orders smoothly.",
+      "name": "Effluent Treatment Plant Control Design",
+      "isActive": false,
+      "description": "Designed the complete control architecture and logic for an industrial effluent treatment plant. The project's core involved modeling all equipment (motors, valves, sensors) using User-Defined Data Types (UDTs) for standardized, reusable code.",
       "highlights": [
-        "🛒 Cart Management",
-        "📦 Order Management",
-        "🚚 Delivery Tracking",
-        "👛 Wallet Integration",
-        "💳 Secure Payment Gateway",
-        "🧾 Invoice & Billing",
-        "🛍️ Product Browsing & Filtering",
-        "📊 Admin Dashboard"
+        "Large-scale automation architecture",
+        "Advanced PLC programming with UDTs",
+        "State machine design for process zones",
+        "Logic for HMI/SCADA visualization"
       ],
       "stack": {
-        "Next-Js": "simple-icons:nextdotjs",
-        "Redux": "simple-icons:redux",
-        "TypeScript": "simple-icons:typescript",
-        "NodeJS": "ri:nodejs-line",
-        "Mongodb": "simple-icons:mongodb"
+        "PLC": "mdi:cpu-64-bit",
+        "SCADA": "carbon:dashboard",
+        "Industrial Automation": "mdi:factory",
+        "Process Control": "carbon:flow-data"
       },
-      "url": "https://notbasic.in/"
+      "url": null,
+      "github": null
     },
     {
-      "name": "Music WebApp",
-      "isActive": true,
-      "description": "A fun and smooth music streaming app where users can discover, play, and enjoy their favorite songs anytime. It features playlists, search, and seamless audio playback for a great listening experience.",
+      "name": "Digital Audio Filter Design (DSP)",
+      "isActive": false,
+      "description": "Designed and implemented digital filters in Scilab for audio processing. This included: 1) Creating IIR filters (using pole-zero placement) to remove broadband and localized noise from a voice recording. 2) Building an audio scrambler/descrambler using FIR filters (Kaiser window) and frequency mixing (heterodyning).",
       "highlights": [
-        "🔥 Firebase Integration",
-        "🔐 User Authentication",
-        "🎵 Playlist Management",
-        "🔍 Song Search"
+        "Audio noise removal (IIR filters)",
+        "Audio scrambler (FIR filters)",
+        "Pole-Zero placement and Kaiser Window methods",
+        "Simulation and design in Scilab"
       ],
-
       "stack": {
-        "React": "simple-icons:react",
-        "tailwind": "mdi:tailwind",
-        "Rest-Api": "mdi:api"
+        "DSP": "mdi:waveform",
+        "Scilab": "simple-icons:scilab",
+        "IIR Filters": "mdi:filter-variant",
+        "FIR Filters": "mdi:filter-variant-plus"
       },
-      "github": "https://github.com/Anmol-TheDev/Music_app",
-      "url": "https://music.anmol.pro"
+      "url": null,
+      "github": null
     },
     {
-      "name": "Stone-Su-man",
-      "isActive": true,
-      "description": "An online shop for selling unique hand-painted stone art, where customers can easily browse, order, and enjoy one-of-a-kind creations.",
+      "name": "Elevator & Virtual Plant Automation",
+      "isActive": false,
+      "description": "Developed control logic for: 1) An elevator system on a Schneider PLC, managing call memory, states, and motion. 2) Two industrial plants ('Assembler' and 'Pick&PlaceXYZ') in the FactoryIO simulator, translating GRAFCET designs to LADDER logic.",
       "highlights": [
-        "🎨 Showcase Hand-Painted Stone Art",
-        "🛒 Easy Product Browsing & Cart",
-        "💳 Secure Online Payments",
-        "📦 Order & Delivery Tracking",
-        "📸 High-Quality Artwork Images",
-        "📱 Mobile-Friendly Design"
+        "Control logic for elevator and industrial plants",
+        "GRAFCET sequence design",
+        "LADDER logic programming",
+        "Simulation in FactoryIO"
       ],
       "stack": {
-        "React": "simple-icons:react",
-        "TypeScript": "simple-icons:typescript",
-        "tailwind": "mdi:tailwind",
-        "Vite": "simple-icons:vite",
-        "PNPM": "simple-icons:pnpm",
-        "Hostinger": "simple-icons:hostinger"
+        "Schneider PLC": "simple-icons:schneiderelectric",
+        "LADDER": "mdi:gate-nand",
+        "GRAFCET": "mdi:chart-sankey",
+        "FactoryIO": "mdi:robot-industrial"
       },
-      "url": "https://stone-su-man.com/"
+      "url": null,
+      "github": null
+    },
+    {
+      "name": "Power System Fault Analysis",
+      "isActive": false,
+      "description": "Performed a complete short-circuit analysis on a power grid. This involved modeling the entire network (generators, transformers, lines) in the per-unit (pu) system and using symmetrical components to calculate fault currents (LG) and their distribution. Results were validated against PSSE software.",
+      "highlights": [
+        "Per-Unit (pu) system modeling",
+        "Symmetrical components analysis (positive, negative, zero)",
+        "Line-to-Ground fault current calculation",
+        "Validated results against PSSE"
+      ],
+      "stack": {
+        "Power Systems": "mdi:transmission-tower",
+        "Fault Analysis": "mdi:alert-decagram",
+        "PSSE": "mdi:chart-line"
+      },
+      "url": null,
+      "github": null
+    },
+    {
+      "name": "Box Filling Line Automation (PSIM)",
+      "isActive": false,
+      "description": "Participated in the design and simulation of a control system for a box filling production line. My role was to plan the sequence of operations (positioning, filling) using GRAFCET and translate this design into a functional LADDD logic program for simulation in PSIM.",
+      "highlights": [
+        "State machine design with GRAFCET",
+        "LADDER logic programming",
+        "Simulation in PSIM",
+        "Implemented automatic and semi-automatic modes"
+      ],
+      "stack": {
+        "GRAFCET": "mdi:chart-sankey",
+        "LADDER": "mdi:gate-nand",
+        "PSIM": "mdi:electric-switch"
+      },
+      "url": null,
+      "github": null
+    },
+    {
+      "name": "Chat App Database Design",
+      "isActive": false,
+      "description": "Co-designed the complete relational database architecture for a complex, Discord-like chat system. The process spanned from conceptual (ERD) to logical (Relational Schema) and physical (SQL) design, defining all entities, relationships, and business rules (RNEs).",
+      "highlights": [
+        "Complex data modeling (ERD)",
+        "Relational schema design",
+        "SQL database architecture",
+        "Modeled users, servers, roles, permissions, and messages"
+      ],
+      "stack": {
+        "SQL": "mdi:database-outline",
+        "Database Design": "mdi:database",
+        "ERD": "mdi:graph"
+      },
+      "url": null,
+      "github": null
     }
   ]
 }

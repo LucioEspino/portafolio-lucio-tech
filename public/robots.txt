@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://anmol.pro/sitemap.xml 
+Sitemap: https://lucioespino.tech/sitemap-index.xml
