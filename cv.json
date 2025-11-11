@@ -123,7 +123,7 @@
   ],
   "skills": [
     {
-      "name": "PLC Programming (Siemens, Schneider)",
+      "name": "PLC Programming (Siemens, Schneider,ABB)",
       "icon": "simple-icons:siemens",
       "level": "Advanced",
       "keywords": ["Automation", "LADDER", "LOGO!", "GRAFCET"]
