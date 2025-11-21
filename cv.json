@@ -44,7 +44,7 @@
   "work": [
     {
       "name": "Stiler Project Management",
-      "position": "Electronics Engineer",
+      "position": "Automation Engineer for O&M",
       "location_type": "On-site",
       "location": "Montevideo, UY",
       "url": null,
@@ -52,12 +52,11 @@
       "endDate": null,
       "summary": "Development and implementation of automation projects for sanitation stations in Montevideo.",
       "responsibilities": [
-        "PLC logic control programming and HMI/SCADA interface design.",
-        "Management and maintenance of distributed control systems (DCS) with approximately 2000 I/O.",
-        "Configuration and maintenance of low-voltage electrical networks and data networks.",
-        "Specification of hardware and software for new functionalities and modifications.",
-        "Development of tools to improve productivity using the Microsoft ecosystem (Microsoft Lists, PowerBI).",
-        "Development of reports in PowerBI to predict discharge events."
+        "Operation & Maintenance (O&M): Comprehensive management and troubleshooting of sanitation pumping stations, ensuring 24/7 availability.",
+        "Critical Infrastructure: Preventive and corrective maintenance of Distributed Control Systems (DCS) and electrical networks (~2000 I/O).",
+        "Industrial Automation: PLC programming and HMI/SCADA interface redesign to improve operational efficiency.",
+        "Asset Management: Hardware specification and technical coordination with national and international suppliers.",
+        "Digitalization: Implementation of PowerBI reports for predictive maintenance and discharge analysis."
       ],
       "skills": {
         "PLC": "simple-icons:siemens",
@@ -376,7 +375,7 @@
     {
       "name": "Box Filling Line Automation (PSIM)",
       "isActive": false,
-      "description": "Participated in the design and simulation of a control system for a box filling production line. My role was to plan the sequence of operations (positioning, filling) using GRAFCET and translate this design into a functional LADDD logic program for simulation in PSIM.",
+      "description": "Participated in the design and simulation of a control system for a box filling production line. My role was to plan the sequence of operations (positioning, filling) using GRAFCET and translate this design into a functional LADDER logic program for simulation in PSIM.",
       "highlights": [
         "State machine design with GRAFCET",
         "LADDER logic programming",
