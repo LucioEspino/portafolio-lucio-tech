@@ -259,6 +259,46 @@
       "github": null
     },
     {
+      "name": "Big Data Architecture for Real-Time Traffic Analysis",
+      "isActive": false,
+      "description": "Designed a Big Data architecture for a transport company to detect traffic congestion in real-time based on GPS data from active vehicles. The solution proposes a hybrid NoSQL approach (Cassandra for real-time/time-series data and MongoDB for historical/document data) integrated with Apache Kafka for ingestion and Apache Spark Streaming for processing.",
+      "highlights": [
+        "Designed lambda architecture for real-time and batch processing",
+        "Proposed NoSQL databases (Cassandra & MongoDB) for high-volume GPS data",
+        "defined Apache Kafka and Spark Streaming for data ingestion and processing",
+        "Addressed 'Big Data' V's: Volume, Velocity, Variety, Veracity, and Value"
+      ],
+      "stack": {
+        "Big Data": "mdi:database-search",
+        "Apache Kafka": "simple-icons:apachekafka",
+        "Apache Spark": "simple-icons:apachespark",
+        "Cassandra": "simple-icons:apachecassandra",
+        "MongoDB": "simple-icons:mongodb"
+      },
+      "url": null,
+      "github": null
+    },
+    {
+      "name": "Bank Customer Churn Prediction (Rpart Decision Trees)",
+      "isActive": false,
+      "description": "Developed a predictive model using Decision Trees (Rpart library in R) to identify premium bank customers at risk of leaving (churn). Performed extensive hyperparameter tuning (Grid Search on maxdepth, minbucket, minsplit, cp) to maximize a specific profit function defined by the business logic, achieving a maximized profit of $3,400,833 on the training set.",
+      "highlights": [
+        "Hyperparameter optimization via Grid Search",
+        "Exploratory Data Analysis (EDA) and variable distribution analysis",
+        "Feature engineering (Total Account Balance, Credit Card Spend, Service Payment Ratio)",
+        "Profit maximization strategy based on business rules"
+      ],
+      "stack": {
+        "R": "simple-icons:r",
+        "Machine Learning": "mdi:brain",
+        "Decision Trees": "mdi:graph-outline",
+        "Data Science": "mdi:chart-scatter-plot",
+        "EDA": "mdi:chart-bell-curve"
+      },
+      "url": null,
+      "github": null
+    },
+    {
       "name": "IoT Operator Identification System (RFID)",
       "isActive": true,
       "description": "Co-developed a full-stack IoT system for industrial machinery access control. The system uses RFID cards (read by an ESP32) to authorize operators by checking against a central database via a Node.js REST API, logging every ignition attempt.",
