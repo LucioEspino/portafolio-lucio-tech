@@ -56,7 +56,7 @@
         "Critical Infrastructure: Preventive and corrective maintenance of Distributed Control Systems (DCS) and electrical networks (~2000 I/O).",
         "Industrial Automation: PLC programming and HMI/SCADA interface redesign to improve operational efficiency.",
         "Asset Management: Hardware specification and technical coordination with national and international suppliers.",
-        "Digitalization: Implementation of PowerBI reports for predictive maintenance and discharge analysis."
+        "Digitalization: Implementation of PowerBI reports for predictive maintenance and discharge analysis using PowerAutomate."
       ],
       "skills": {
         "PLC": "simple-icons:siemens",
@@ -177,9 +177,21 @@
     },
     {
       "name": "Data Analytics",
+      "icon": "carbon:data-analytics",
+      "level": "Advanced",
+      "keywords": ["ETL Pipelines", "Predictive Modeling", "Python (Pandas/Scikit)", "Statistical Analysis"]
+    },
+    {
+      "name": "Power BI",
       "icon": "simple-icons:powerbi",
+      "level": "Advanced",
+      "keywords": ["DAX", "Power Query (M)", "Data Modeling", "Real-time Dashboards"]
+    },
+    {
+      "name": "Power Automate",
+      "icon": "simple-icons:powerautomate",
       "level": "Intermediate",
-      "keywords": ["PowerBI", "Reports", "Data Visualization"]
+      "keywords": ["RPA", "Cloud Flows", "API Connectors", "Business Logic"]
     },
     {
       "name": "DSP",
